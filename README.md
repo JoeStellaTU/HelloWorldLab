@@ -5,7 +5,8 @@ all functional code: app/kotlin+java/edu.temple.helloworld/MainActivity
 ![image](https://github.com/user-attachments/assets/8b006b3d-9c24-4bf4-8283-88a1fb8c80ff)
 
 
-all visual values: res/...
+
+
 
 
 ![image](https://github.com/user-attachments/assets/f7cf08ac-4c70-4947-a662-5ba57d6c8e11)
