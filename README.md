@@ -1,6 +1,6 @@
 This app allows users to enter their name and it will change it's message to say hello to that person
 
-all functional code: app/kotlin+java/edu.temple.helloworld/MainActivity
+[all functional code:] (app/src/main/java/edu/temple/helloworld/MainActivity.kt)
 
 ![image](https://github.com/user-attachments/assets/8b006b3d-9c24-4bf4-8283-88a1fb8c80ff)
 
